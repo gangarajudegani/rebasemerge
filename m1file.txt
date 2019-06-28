@@ -1,1 +1,2 @@
 this is first line for merge
+this line second line for m2
